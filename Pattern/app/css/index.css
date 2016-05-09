@@ -1,0 +1,22 @@
+.red-box {
+  margin: 100px auto 0 auto;
+  background-color: green;
+  height: 50px;
+  width: 50px;
+}
+
+.white {
+  background-color: #FFF;
+}
+
+.green {
+  background-color: green;
+  width: 150px;
+  height: 150px;
+}
+
+.green1 {
+  background-color: green;
+  width: 350px;
+  height: 350px;
+}
